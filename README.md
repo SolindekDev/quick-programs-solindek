@@ -11,5 +11,5 @@ Shell script to install important programs.
 - Gtk3 and Gtk4
 - Curl
 
-##### Script only on Debian/Ubuntu.. soon on Arch
+##### Script only on Debian.. soon on Arch
 ##### Script maded for me so it's programs that's are important for me
