@@ -10,4 +10,4 @@ Shell script to install important programs.
 - MongoDB
 - Gtk3 and Gtk4
 
-##### Script only on Debian/Ubuntu.. soon on arch based distro
+##### Script only on Debian/Ubuntu.. soon on Arch
