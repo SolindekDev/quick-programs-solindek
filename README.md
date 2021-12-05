@@ -10,7 +10,6 @@ Shell script to install important programs.
 - MongoDB
 - Gtk3 and Gtk4
 - Curl
-- Java
 
 ##### Script only on Debian/Ubuntu.. soon on Arch
 ##### Script maded for me so it's programs that's are important for me
