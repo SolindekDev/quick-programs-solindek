@@ -9,6 +9,7 @@ Shell script to install important programs.
 - Nvim
 - MongoDB
 - Gtk3 and Gtk4
+- Curl
 
 ##### Script only on Debian/Ubuntu.. soon on Arch
 ##### Script maded for me so it's programs that's are important for me
